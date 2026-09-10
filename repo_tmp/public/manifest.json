@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "name": "Kara Para Futures Terminal",
+  "short_name": "KaraPara",
+  "description": "Binance Futures gerçek zamanlı dinamik quantile kova ve akıllı para akış motoru.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#fdf2f8",
+  "background_color": "#fff1f2",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
